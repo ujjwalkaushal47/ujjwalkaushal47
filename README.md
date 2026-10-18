@@ -45,17 +45,12 @@
   <img src="https://streak-stats.demolab.com?user=ujjwalkaushal47&theme=transparent&hide_border=true" alt="Ujjwal's GitHub contribution streak" />
 </p>
 
-## Contribution activity
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/ujjwalkaushal47" alt="GitHub contribution calendar for ujjwalkaushal47" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/ujjwalkaushal47">
-    <sub>See my full contribution activity on GitHub</sub>
-  </a>
-</p>
 
 ## Connect
 
